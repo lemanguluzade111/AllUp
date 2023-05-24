@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "brUjepwlcg04xEAlJ1JVuq6+54KBTKCN7ohg8eE4M2K3JruMU+OGoAQGTgF5xDHbYRR8LjbQlT1bOzYImtRYfQ==",
+  "dgSpecHash": "djXyYCR996njW0Ae1k757S8i1i3LksEAHhMyluuQ9Vp+5ZVUT6er6o3Xm4KKenWfl3p3x+YvkBUYqM8Er/+CgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lqulu\\OneDrive\\Masaüstü\\BACKEND-111\\AllUp\\AllUp\\AllUp.csproj",
+  "projectFilePath": "C:\\Users\\lqulu\\OneDrive\\Masaüstü\\AllUp Github\\AllUp\\AllUp\\AllUp\\AllUp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lqulu\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\lqulu\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -10615,11 +10615,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lqulu\\OneDrive\\Masaüstü\\BACKEND-111\\AllUp\\AllUp\\AllUp.csproj",
+      "projectUniqueName": "C:\\Users\\lqulu\\OneDrive\\Masaüstü\\AllUp Github\\AllUp\\AllUp\\AllUp\\AllUp.csproj",
       "projectName": "AllUp",
-      "projectPath": "C:\\Users\\lqulu\\OneDrive\\Masaüstü\\BACKEND-111\\AllUp\\AllUp\\AllUp.csproj",
+      "projectPath": "C:\\Users\\lqulu\\OneDrive\\Masaüstü\\AllUp Github\\AllUp\\AllUp\\AllUp\\AllUp.csproj",
       "packagesPath": "C:\\Users\\lqulu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lqulu\\OneDrive\\Masaüstü\\BACKEND-111\\AllUp\\AllUp\\obj\\",
+      "outputPath": "C:\\Users\\lqulu\\OneDrive\\Masaüstü\\AllUp Github\\AllUp\\AllUp\\AllUp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lqulu\\AppData\\Roaming\\NuGet\\NuGet.Config",
